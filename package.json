@@ -28,8 +28,7 @@
   
   "scripts": {
     
-    "start":"node server.js",
-    "dev":"nodemon server.js",
+    "start":"react-scripts start",
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
     "build": "react-scripts build",

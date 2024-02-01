@@ -85,8 +85,8 @@ export const Contact = () => {
             <TrackVisibility>
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                <h2>Get In Touch</h2>
-                <form 
+                <h2>Get In Touch by reaching me out on my Gmail - shivaniproff@gmail.com</h2>
+                {/* <form 
                 // onSubmit={handleSubmit}
                 >
                   <Row>
@@ -112,8 +112,8 @@ export const Contact = () => {
                         <p className={status.success === false ? "danger" : "success"}>{status.message}</p>
                       </Col>
                     } */}
-                  </Row>
-                </form>
+                  {/* </Row>
+                </form> */} 
               </div>}
 
             </TrackVisibility>

@@ -19,12 +19,12 @@ export const Projects = () => {
     {
       title: "•	Weather Forecast App: ",
       description: "Designed and developed a Weather Forecast App using React Native, demonstrating proficiency in mobile application development. The app provides weather updates, forecasts, and interactive features for users. Integrated APIs to fetch and display accurate weather data. Utilized: React Native, JavaScript, APIs for weather data retrieval, Responsive Design.",
-      imgUrl: covidMap,
+      imgUrl: projImg2,
     },
     {
       title: "•	Covid Map Application: ",
       description: "Developed a COVID Map Application using React.js to visualize real-time data and statistics related to the COVID pandemic. The application provides an interactive map interface for users to explore and understand the impact of the virus globally or within specific regions.",
-      imgUrl: projImg1,
+      imgUrl: covidMap,
     },
     {
       title: "•	Web Data Management Project:",
